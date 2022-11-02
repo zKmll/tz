@@ -10,7 +10,7 @@ from telegram.utils.request import Request
 from tb.models import Profile
 
 #TG_API_URL = "https://telegg.ru/orig/bot" 
-TOKEN = '5723230723:AAElREEDY7ug4ex9GsHf_0QJUcD6WWUS3NQ'
+TOKEN = '#'
 
 def log_errors(f):
 
